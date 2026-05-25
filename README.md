@@ -4,7 +4,7 @@
 <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/a4e4ee29-d74d-46c9-8fd0-371b6519436f" />
 <p align="center"> ୨୧    ─    She\her <img />
 <p align="center"> ꒰  ˊ ๑ ˋ  ꒱I LOVE MY @stupystup <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/f050f332-aa3c-4987-921d-52cce68ce9de"/>
-<p align="center"> ୨୧    ─    16.10.06  <img />
+<p align="center"> ୨୧    ─    16.10.06 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/white-lily-cookie-dark-enchantress-cookie.gif"/></p> <img />
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
