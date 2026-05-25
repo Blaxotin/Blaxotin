@@ -2,6 +2,7 @@
  </h1>
 <p align="center"> ૮꒰っ´c꒱ა я - Блахотин/Блаксотин/блоха </p>
 <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/a4e4ee29-d74d-46c9-8fd0-371b6519436f" />
+ </h1>
 <p align="center"> ୨୧    ─    She\her <img />
 <p align="center"> ꒰  ˊ ๑ ˋ  ꒱I LOVE MY @stupystup <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/f050f332-aa3c-4987-921d-52cce68ce9de"/>
 <p align="center"> ୨୧    ─  16.10.?? <img />
