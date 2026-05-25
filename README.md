@@ -1,4 +1,4 @@
-<h1 align="center"> (◠﹏◠) hi dear fans..OOHH-AHHhh oh (??) <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e7301095-223f-4c93-8293-01a8d212fef1" />
+<h1 align="center"> (◠﹏◠) hi dear fans..OOHH-AHHhh oh (??) <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e7301095-223f-4c93-8293-01a8d212fef1" />
  </h1>
 <p align="center"> Blaxotin\Блоха </p>
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
