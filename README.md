@@ -1,9 +1,10 @@
 <h1 align="center"> (◠﹏◠) h1 d3ar fans..OOHH-AHHhh oh (??) sorry <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e7301095-223f-4c93-8293-01a8d212fef1" />
  </h1>
-<p align="center"> Blaxotin\Блоха </p>
+<p align="center">  я - Блахотин/Блаксотин/блоха </p>
 <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/a4e4ee29-d74d-46c9-8fd0-371b6519436f" />
-<h1 align="center">  <img />
-
+<p align="center"> She\her <img />
+<p align="center"> oh my... - <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/5b50f6b4-f805-43e1-a42b-ff4b069752b3" />
+ <img />
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
