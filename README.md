@@ -5,7 +5,7 @@
 <p align="center"> ୨୧    ─    She\her <img />
 <p align="center"> ꒰  ˊ ๑ ˋ  ꒱I LOVE MY @stupystup <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/f050f332-aa3c-4987-921d-52cce68ce9de"/>
 <p align="center"> ୨୧    ─  16.10.06 <img />
- <p align="center">  DNU ─  м*жло, л*лофаги, тр*нсня, они/их (джона\джота\дио,дио\каки,пучч\езер,бернинг\какао,сайлент\лили) <img />
+ <p align="center">  DNU ─  м*жло, л*лофаги, тр*нсня, они/их (джона\джота\дио,дио\каки,пучч\езер,бернинг\какао,сайлент\лили) ОЙ ТОЕСТЬ ЛЮБЛЮ ВСЕХ <img />
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
