@@ -1,6 +1,6 @@
 <h1 align="center">  </h1>
 <p align="center"> </p>
-<img width="169" height="200" alt="image" src="https://github.com/user-attachments/assets/2d92f64a-4d11-4da3-a91c-5433ab6311ac" />
+[<img width="169" height="200" alt="image" src="https://github.com/user-attachments/assets/2d92f64a-4d11-4da3-a91c-5433ab6311ac" />]
 
 <!--
 **Blaxotin/Blaxotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
