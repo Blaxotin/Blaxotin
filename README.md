@@ -3,7 +3,8 @@
 <p align="center">  я - Блахотин/Блаксотин/блоха </p>
 <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/a4e4ee29-d74d-46c9-8fd0-371b6519436f" />
 <p align="center"> She\her <img />
-<p align="center"> I LOVE MY @stupystup <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5b50f6b4-f805-43e1-a42b-ff4b069752b3" />
+<p align="center"> I LOVE MY @stupystup <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/f050f332-aa3c-4987-921d-52cce68ce9de" />
+ />
  <img />
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
