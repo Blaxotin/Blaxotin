@@ -13,8 +13,8 @@
  </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
- <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact.. <img />
-<p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
+ <h3 align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact.. </h3>
+ <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
 **Blaxotin/Blaxotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
