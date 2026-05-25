@@ -1,5 +1,5 @@
-<h1 align="center"> (◠﹏◠) hi dear fans </h1>
-<p align="center"> </p>
+<h1 align="center"> (◠﹏◠) hi dear fans.. </h1>
+<p align="center"> Blaxotin\Блоха </p>
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
