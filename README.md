@@ -1,4 +1,7 @@
-<h1 align="center">  </h1>
+<h1 align="center"> .　∧∧  ∩∩ 💕
+　(　　) 　)     не красиво.. 
+　/ 　 つ　＼    Мне тоже не нравится
+（　〇　) 〇 ) ﾞﾞ~~ </h1>
 <p align="center"> </p>
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
