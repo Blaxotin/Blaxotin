@@ -1,6 +1,6 @@
 <h1 align="center">  </h1>
 <p align="center"> </p>
-[<img width="169" height="200" alt="image" src="https://github.com/user-attachments/assets/2d92f64a-4d11-4da3-a91c-5433ab6311ac" />]
+<div class="tenor-gif-embed" data-postid="12481617272982124327" data-share-method="host" data-aspect-ratio="0.846154" data-width="100%"><a href="https://tenor.com/view/dark-cacao-cookie-cookie-run-kingdom-cookie-run-gif-12481617272982124327">Dark Cacao Cookie Cookie Run Kingdom Sticker</a>from <a href="https://tenor.com/search/dark+cacao+cookie-stickers">Dark Cacao Cookie Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **Blaxotin/Blaxotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
