@@ -9,7 +9,7 @@
   <h1 align="center"> zZ⁺z 
  <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/1e167834-30f1-472b-bfa1-0bbfdcf5bcfa" />
 </h1>
-<h1 align="center"> FANDOMS
+<h1 align="center"> F4NDOMS
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
