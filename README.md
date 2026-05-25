@@ -11,6 +11,8 @@
  <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/1e167834-30f1-472b-bfa1-0bbfdcf5bcfa" />
 <h1 align="center"> F4NDOMS
  </h1>
+   <img width="4027" height="414" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
+
  <p align="center"> ୨୧    ─  <img />
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
