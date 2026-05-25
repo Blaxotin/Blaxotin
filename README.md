@@ -2,7 +2,7 @@
  </h1>
 <p align="center"> Blaxotin\Блоха </p>
 <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/a4e4ee29-d74d-46c9-8fd0-371b6519436f" />
-<h1 align="center"> (◠﹏◠) h1 d3ar fans..OOHH-AHHhh oh (??) sorry <img />
+<h1 align="center">  <img />
 
 <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
