@@ -13,7 +13,7 @@
 </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
- <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Cyberpunk:Edgerunners,Castlevania,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ </p>
+ <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Chiikawa,Invincible,Made in Abyss,Cyberpunk:Edgerunners,Castlevania,Grappler Baki,Mob Psycho 100,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ </p>
  </h1>
   <p align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9dd80ab2-f5db-4056-8935-77c45270e0e2" /> </p>
 <p align="center"> ໒꒰ྀི´ ˘ ` ꒱ྀིა - может..я что-то забыла(??) <img /> 
@@ -57,6 +57,8 @@
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/08bc3f20-a225-407d-bcce-598fde3c2ad3" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/8c42ff4b-b824-4bb6-a2a0-e6aefaf57a49" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/7b9a3364-9b48-4ee7-91fc-53c5a3a1c93d" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/ec07cc2e-41e0-4fe2-bf78-a3330fb82bf4" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/e1bada87-3580-4b32-8630-5168e237937f" />
 
 
 
