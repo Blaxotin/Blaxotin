@@ -68,20 +68,10 @@
 </h1>
 <h1 align="center"> это профиль моего боттом омеги - https://github.com/stupystup ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.
 <img width="3038" height="1336" alt="image" src="https://github.com/user-attachments/assets/86006f0b-972a-4acd-9210-baf587741140" />
+  <h1 align="center"> ⋆˚✿˖°BY3⋆.ೃ࿔*:･
 
-
-
-   
-<p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 о рыбы
-
-
-
-
-
-
-
- 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
+ <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 о рыбы
 
 <!--
 **Blaxotin/Blaxotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
