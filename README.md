@@ -17,7 +17,7 @@
 <p align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9dd80ab2-f5db-4056-8935-77c45270e0e2" /> </p>
 <p align="center"> ໒꒰ྀི´ ˘ ` ꒱ྀིა - может..я что-то забыла(??) <img /> 
 </h1>
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/d207e292-dfe8-485a-8a20-163fce4bd65e" />
+<img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/d207e292-dfe8-485a-8a20-163fce4bd65e" />
 
 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
