@@ -9,7 +9,7 @@
  <p align="center">  DNI ─  м*жло,л*лофаги,тр*нсня,они/их,л*либайт (джона\джота\дио,дио\каки,пучч\езер,бернинг\какао,сайлент\лили) ОЙ ТОЕСТЬ ЛЮБЛЮ ВСЕХ <img />
   <h1 align="center"> zZ⁺z 
  <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/1e167834-30f1-472b-bfa1-0bbfdcf5bcfa" />
-<h1 align="center"> F4NDOMS
+<h1 align="center"> F4NDOMS☆ . ࣪ ˖ ࿐
 </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
@@ -20,6 +20,8 @@
 </h1>
 <img width="4119" height="736" alt="image" src="https://github.com/user-attachments/assets/28ced301-9184-4f79-a72d-b0c3cd5ef843" />
 <h1 align="center"> FAV PAIRINGS ˖ ࣪ . ࿐ ♡ ˚ .
+</h1> 
+<p Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon
 
 
 
