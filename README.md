@@ -21,7 +21,9 @@
 <img width="4119" height="736" alt="image" src="https://github.com/user-attachments/assets/28ced301-9184-4f79-a72d-b0c3cd5ef843" />
 <h1 align="center"> FAV PAIRINGS ˖ ࣪ . ࿐ ♡ ˚ .
 </h1> 
-<p></p> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon
+</p> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon ⁀➴
+</p> JoJo: Dio/Pucci , TheWorld/WhiteSnake ‹𝟹 
+</p> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino YaeMiko/raiden,Alhaitham/KamisatoAyato ❀˖°
 
 
 
