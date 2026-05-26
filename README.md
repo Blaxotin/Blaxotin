@@ -19,7 +19,7 @@
 <p align="center"> ໒꒰ྀི´ ˘ ` ꒱ྀིა - может..я что-то забыла(??) <img /> 
 </h1>
 <img width="4119" height="736" alt="image" src="https://github.com/user-attachments/assets/28ced301-9184-4f79-a72d-b0c3cd5ef843" />
-<h1 align="center"> FAV PAIRINGS ˖ ࣪ . ࿐ ♡ ˚ .
+<h1 align="center"> F4V PA1R1NGS ˖ ࣪ . ࿐ ♡ ˚ .
 </h1> 
 </p> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon ⁀➴
 </p> JoJo: Dio/Pucci , TheWorld/WhiteSnake ‹𝟹 
@@ -28,7 +28,8 @@
   <img src="https://github.com/Blaxotin/Blaxotin/blob/main/shadowspice-burningmilk.gif" width="150" height="150" />
 </p>
 <img width="3789" height="609" alt="image" src="https://github.com/user-attachments/assets/f7d909e6-3a48-4440-8d03-68aea0f48d21" />
-
+</h1>
+</p> K1N L1ST
 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
