@@ -15,10 +15,10 @@
 
  <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ </p>
  </h1>
-<p align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9dd80ab2-f5db-4056-8935-77c45270e0e2" /> </p>
+  <p align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9dd80ab2-f5db-4056-8935-77c45270e0e2" /> </p>
 <p align="center"> ໒꒰ྀི´ ˘ ` ꒱ྀིა - может..я что-то забыла(??) <img /> 
 </h1>
-<img width="4119" height="736" alt="image" src="https://github.com/user-attachments/assets/28ced301-9184-4f79-a72d-b0c3cd5ef843" />
+ <img width="4119" height="736" alt="image" src="https://github.com/user-attachments/assets/28ced301-9184-4f79-a72d-b0c3cd5ef843" />
 <h1 align="center"> F4V PA1R1NGS ˖ ࣪ . ࿐ ♡ ˚ .
 </h1> 
 </p> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon ⁀➴
@@ -30,7 +30,8 @@
 <img width="3789" height="609" alt="image" src="https://github.com/user-attachments/assets/f7d909e6-3a48-4440-8d03-68aea0f48d21" />
 </h1>
 <h1 align="center"> K1N L1STೀ⋆｡
-
+</h1>
+ 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
