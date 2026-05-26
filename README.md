@@ -31,6 +31,8 @@
 </h1>
 <h1 align="center"> K1N L1STೀ⋆｡
 </h1>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/12e81b00-9b00-4a51-8a96-966bce0ece60" />
+
  
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
