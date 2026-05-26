@@ -13,7 +13,7 @@
 </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
- <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Cyberpunk:Edgerunners,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ </p>
+ <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Cyberpunk:Edgerunners,Castlevania,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ </p>
  </h1>
   <p align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9dd80ab2-f5db-4056-8935-77c45270e0e2" /> </p>
 <p align="center"> ໒꒰ྀི´ ˘ ` ꒱ྀིა - может..я что-то забыла(??) <img /> 
@@ -46,6 +46,8 @@
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a87d747b-9e7a-41f7-9d94-007626129598" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b062342a-50bc-4da4-b3cc-749aaa6e943c" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a849e5cc-3d5e-4c92-ab41-ac9bbafb1367" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/df517c5e-2431-4738-9aaa-75ef6ed78ace" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/785c8b5e-3c33-449f-b535-befeecc8a75b" />
 
 
 
