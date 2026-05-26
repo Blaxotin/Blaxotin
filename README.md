@@ -67,7 +67,8 @@
  <img width="3233" height="605" alt="image" src="https://github.com/user-attachments/assets/a92dde94-c05f-4736-9e81-d0b891e0d3b3" />
 </h1>
 <h1 align="center"> это профиль моего боттом омеги - https://github.com/stupystup ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.
-<img width="3071" height="1364" alt="image" src="https://github.com/user-attachments/assets/7a223b2f-4e37-40d9-8e4e-c686d805c36e" />
+<img width="3097" height="1372" alt="image" src="https://github.com/user-attachments/assets/c1244827-51fb-4f0b-8757-ae313528cee7" />
+
    
 <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 о рыбы
 
