@@ -13,7 +13,7 @@
  </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
- <h1 align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends </p>
+ <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Breaking Bad,Arcane,Metal Gear Rising,Devil May Cry,Made in Abyss,Grappler Baki,Chainsaw Man,Gravity Falls,Teen Titans,Spifer-Man spider-verse,Mr. X’s Farm,Fnaf,Brawl Stars,PvZ,League of Legends,Mogeko Castle,Undertale,Yandere Simulator,Sally Face,Minecraft,Adventure Time,FNF,Little Nightmares,SCP,Roblox,Don't Starve,Sky,Hotline Miami,TF2,Dead by Daylight,Valorant~ {может быть я действительно что то забыла?} </p>
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
