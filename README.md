@@ -63,6 +63,8 @@
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/d7a3690d-9b13-44d2-aa0b-2e139da33ab0" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/09ac4bf3-8541-4808-b42c-19d948719aa7" />
 </h1>
+ <img width="3233" height="605" alt="image" src="https://github.com/user-attachments/assets/a92dde94-c05f-4736-9e81-d0b891e0d3b3" />
+
   <p align="center"> это профиль моего боттом омеги - https://github.com/stupystup ૮꒰ ˶• ༝ •˶꒱ა ♡
 
 
