@@ -23,8 +23,10 @@
 </h1> 
 </p> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon ⁀➴
 </p> JoJo: Dio/Pucci , TheWorld/WhiteSnake ‹𝟹 
-</p> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino YaeMiko/raiden,Alhaitham/KamisatoAyato ❀˖°
-
+</p> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino YaeMiko/Raiden,Alhaitham/KamisatoAyato ❀˖°
+ <p align="center">
+  <img src="https://github.com/Blaxotin/Blaxotin/blob/main/shadowspice-burningmilk.gif" width="70" height="70" />
+</p>
 
 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
