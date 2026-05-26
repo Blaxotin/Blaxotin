@@ -6,6 +6,9 @@
 <p align="center"> ୨୧    ─    She\her <img />
 <p align="center"> ꒰  ˊ ๑ ˋ  ꒱I LOVE MY @stupystup <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/f050f332-aa3c-4987-921d-52cce68ce9de"/>
 <p align="center"> ୨୧    ─  16.10.?? <img />
+ <p align="center">
+  <img src="https://github.com/Blaxotin/Blaxotin/blob/main/white-lily-cookie-dark-enchantress-cookie.gif" width="70" height="70" />
+</p>
  <p align="center">  DNI ─  м*жло,л*лофаги,тр*нсня,они/их,л*либайт (джона\джота\дио,дио\каки,пучч\езер,бернинг\какао,сайлент\лили) ОЙ ТОЕСТЬ ЛЮБЛЮ ВСЕХ <img />
   <h1 align="center"> zZ⁺z 
  <img width="2000" height="500" alt="image" src="https://github.com/user-attachments/assets/1e167834-30f1-472b-bfa1-0bbfdcf5bcfa" />
