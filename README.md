@@ -13,7 +13,7 @@
  </h1>
    <img width="1000" height="70" alt="image" src="https://github.com/user-attachments/assets/34219775-0892-4ec6-a6e3-21dd1a7fa9cb" />
 
- <p align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact.. </p>
+ <h1 align="center"> ୨୧    ─ JoJo’s Bizarre Adventure,Saiki Kusuo no Psi Nan,Cookie Run Kingdom\OvenBreak,the boys,Genshin Impact,Honkai: Star Rail,mlp,Squid Game,Hell Is Other People,Arcane,Metal Gear Rising,Made in Abyss </p>
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
 <!--
