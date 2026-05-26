@@ -29,7 +29,7 @@
 </p>
 <img width="3789" height="609" alt="image" src="https://github.com/user-attachments/assets/f7d909e6-3a48-4440-8d03-68aea0f48d21" />
 </h1>
-</p> K1N L1ST
+<h1 align="center"> K1N L1STೀ⋆｡
 
  <p><img align="center" src="https://github.com/Blaxotin/Blaxotin/blob/main/dark-cacao-cookie-cookie-run-kingdom.gif" /></p>
 
