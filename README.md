@@ -25,7 +25,7 @@
 </p> JoJo: Dio/Pucci , TheWorld/WhiteSnake ‹𝟹 
 </p> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino YaeMiko/Raiden,Alhaitham/KamisatoAyato ❀˖°
  <p align="center">
-  <img src="https://github.com/Blaxotin/Blaxotin/blob/main/shadowspice-burningmilk.gif" width="70" height="70" />
+  <img src="https://github.com/Blaxotin/Blaxotin/blob/main/shadowspice-burningmilk.gif" width="150" height="150" />
 </p>
 
 
